@@ -1,6 +1,6 @@
 # My Data Analytics Project
 
-This project is my work for the Module Principles of Data Analytics of the Course Data Analytics in the University of [ATU Galway Mayo](https://www.atu.ie/).
+This project is my work for the Module Principles of Data Analytics of the Course Data Analytics in [ATU Galway Mayo](https://www.gmit.ie/).
 
 ## About this project
 
@@ -26,7 +26,5 @@ If there's any problem with this project, please submit [issues](https://github.
 ## Author
 
 **by Fatima Oliveira** 
-Email: Fatima.21.00@hotmail.com
 
-***
-## End
+Email: g00438857@atu.ie or Fatima.21.00@hotmail.com
