@@ -6,7 +6,7 @@ This project is my work for the Module Principles of Data Analytics of the Cours
 
 This project is based on the [Palmer Penguins Data Set](https://allisonhorst.github.io/palmerpenguins/), and I will put into practice the content learned during this module to analyse this dataset.
 
-![Penguins](https://allisonhorst.github.io/palmerpenguins/logo.png)
+![Penguins](https://allisonhorst.github.io/palmerpenguins/logo.png)Artwork by @allison_horst
 
 ## Purpose of this project
 
